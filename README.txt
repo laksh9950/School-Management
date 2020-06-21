@@ -1,1 +1,1 @@
-I am read me file
+School Management Project in Django
